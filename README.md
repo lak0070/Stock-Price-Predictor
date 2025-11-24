@@ -47,6 +47,5 @@ Run the script in your terminal or command prompt.
 When prompted, enter the stock ticker symbol
 The script will download historical stock data, train the LSTM model, plot the results, and finally print the predicted next day close price.
 
-Screenshorts:
 
 
